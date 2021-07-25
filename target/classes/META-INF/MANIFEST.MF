@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Built-By: tserk
+Build-Jdk: 11.0.11
+Class-Path: camel-grpc-2.21.0.fuse-770013-redhat-00001.jar grpc-auth-1.2
+ 3.0.redhat-00003.jar grpc-api-1.23.0.redhat-00003.jar grpc-context-1.23
+ .0.redhat-00003.jar error_prone_annotations-2.3.2.jar jsr305-3.0.2.jar 
+ animal-sniffer-annotations-1.17.0.redhat-00001.jar grpc-netty-1.23.0.re
+ dhat-00003.jar grpc-core-1.23.0.redhat-00003.jar gson-2.7.jar annotatio
+ ns-4.1.1.4.jar perfmark-api-0.17.0.jar opencensus-api-0.21.0.jar opence
+ nsus-contrib-grpc-metrics-0.21.0.jar netty-codec-http2-4.1.42.Final-red
+ hat-00001.jar netty-common-4.1.42.Final-redhat-00001.jar netty-buffer-4
+ .1.42.Final-redhat-00001.jar netty-transport-4.1.42.Final-redhat-00001.
+ jar netty-resolver-4.1.42.Final-redhat-00001.jar netty-codec-4.1.42.Fin
+ al-redhat-00001.jar netty-handler-4.1.42.Final-redhat-00001.jar netty-c
+ odec-http-4.1.42.Final-redhat-00001.jar netty-handler-proxy-4.1.42.Fina
+ l-redhat-00001.jar netty-codec-socks-4.1.42.Final-redhat-00001.jar grpc
+ -protobuf-1.23.0.redhat-00003.jar protobuf-java-3.9.0.jar guava-26.0-an
+ droid.jar checker-compat-qual-2.5.2.jar j2objc-annotations-1.1.jar prot
+ o-google-common-protos-1.12.0.jar grpc-protobuf-lite-1.23.0.redhat-0000
+ 3.jar grpc-stub-1.23.0.redhat-00003.jar javassist-3.24.1-GA.jar netty-t
+ cnative-boringssl-static-2.0.25.Final.jar google-auth-library-oauth2-ht
+ tp-0.13.0.jar google-http-client-1.28.0.jar opencensus-contrib-http-uti
+ l-0.18.0.jar google-http-client-jackson2-1.28.0.jar jackson-core-2.9.6.
+ jar google-auth-library-credentials-0.13.0.jar java-jwt-3.7.0.jar jacks
+ on-databind-2.9.8.jar jackson-annotations-2.9.0.jar commons-codec-1.11.
+ jar
+Created-By: Maven Integration for Eclipse
+
